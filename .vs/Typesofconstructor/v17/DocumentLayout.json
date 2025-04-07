@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Typesofconstructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A37D76FF-EBCA-4BD4-91D3-6B83504D01F2}|Typesofconstructor.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\typesofconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37D76FF-EBCA-4BD4-91D3-6B83504D01F2}|Typesofconstructor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37D76FF-EBCA-4BD4-91D3-6B83504D01F2}|Typesofconstructor.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\typesofconstructor\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37D76FF-EBCA-4BD4-91D3-6B83504D01F2}|Typesofconstructor.csproj|solutionrelative:first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37D76FF-EBCA-4BD4-91D3-6B83504D01F2}|Typesofconstructor.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\typesofconstructor\\typesofconstructor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A37D76FF-EBCA-4BD4-91D3-6B83504D01F2}|Typesofconstructor.csproj|solutionrelative:typesofconstructor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "First.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Typesofconstructor\\First.cs",
+              "RelativeDocumentMoniker": "First.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Typesofconstructor\\First.cs",
+              "RelativeToolTip": "First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:34:05.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Typesofconstructor",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Typesofconstructor\\Typesofconstructor.csproj",
+              "RelativeDocumentMoniker": "Typesofconstructor.csproj",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Typesofconstructor\\Typesofconstructor.csproj",
+              "RelativeToolTip": "Typesofconstructor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T05:33:35.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Typesofconstructor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Typesofconstructor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:26:30.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
