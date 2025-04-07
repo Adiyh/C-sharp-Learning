@@ -4,8 +4,6 @@ C:\Users\adars\OneDrive\Desktop\CSharp\Typesofconstructor\bin\Release\net8.0\Typ
 C:\Users\adars\OneDrive\Desktop\CSharp\Typesofconstructor\bin\Release\net8.0\Typesofconstructor.dll
 C:\Users\adars\OneDrive\Desktop\CSharp\Typesofconstructor\bin\Release\net8.0\Typesofconstructor.pdb
 C:\Users\adars\OneDrive\Desktop\CSharp\Typesofconstructor\obj\Release\net8.0\Typesofconstructor.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adars\OneDrive\Desktop\CSharp\Typesofconstructor\obj\Release\net8.0\Typesofconstructor.AssemblyInfoInputs.cache
-C:\Users\adars\OneDrive\Desktop\CSharp\Typesofconstructor\obj\Release\net8.0\Typesofconstructor.AssemblyInfo.cs
 C:\Users\adars\OneDrive\Desktop\CSharp\Typesofconstructor\obj\Release\net8.0\Typesofconstructor.csproj.CoreCompileInputs.cache
 C:\Users\adars\OneDrive\Desktop\CSharp\Typesofconstructor\obj\Release\net8.0\Typesofconstructor.sourcelink.json
 C:\Users\adars\OneDrive\Desktop\CSharp\Typesofconstructor\obj\Release\net8.0\Typesofconstructor.dll
